@@ -27,4 +27,4 @@ jobs:
     - uses: actions/upload-artifact@v2.2.1
       with:
         name: Tab
-        path: jars/*.jar
+        path: build/*.jar
